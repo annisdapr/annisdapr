@@ -7,8 +7,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annisdapr&layout=compact&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=annisdapr&theme=radical)](https://git.io/streak-stats)
-
 
 ### Tech Stack
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
