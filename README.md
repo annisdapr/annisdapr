@@ -5,10 +5,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annisdaprilia4)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:annissadwiaprilia@gmail.com)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annisadwiaprilia&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annisdapr&layout=compact&theme=tokyonight)
 
 ### Stats
-![Annisa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=annisadwiaprilia&show_icons=true&theme=tokyonight)
+![Annisa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=annisdapr&show_icons=true&theme=tokyonight)
 
 
 ### Tech Stack
