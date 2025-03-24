@@ -7,9 +7,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annisdapr&layout=compact&theme=tokyonight)
 
-### Stats
-![Annisa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=annisdapr&show_icons=true&theme=tokyonight)
-
 
 ### Tech Stack
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
