@@ -1,6 +1,6 @@
 - 👋 Hi, I’m annisa
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning mobile app
+
 ### 📫 How to reach me: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annisdaprilia4)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:annissadwiaprilia@gmail.com)
